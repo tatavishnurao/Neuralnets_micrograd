@@ -18,3 +18,4 @@ I had just had to start out with Excalidraw to visualize and soak in his teachin
 
 #### The core of the backpropagation is the differentiability of curve-fitting function for each constant k is a real number
 
+![Image](https://github.com/user-attachments/assets/0d7abf4a-45bb-463f-8a67-ae50b1dd567b)
