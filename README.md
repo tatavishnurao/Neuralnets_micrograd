@@ -16,3 +16,5 @@ I had just had to start out with Excalidraw to visualize and soak in his teachin
 ```
 ### Backpropogation in a Nutshell: The recursive application of Chain rule backwards thorugh the computation graph
 
+#### The core of the backpropagation is the differentiability of curve-fitting function for each constant k is a real number
+
