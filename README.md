@@ -25,3 +25,8 @@ The backpropoagtion aims to solve the curve-fitting problem i.e,
 y(x) = k0 + k1x + k2x^2 + k3x^3 + k4x^4 + k5x^5 where for every k is a real number.
 ```
 
+________________________________________________________________________________________________________
+
+### THE GOAL is to find the set of coeffients which satisfies the curve-fitting for the points available
+
+--The Backpropogation can happen in 4 steps:
