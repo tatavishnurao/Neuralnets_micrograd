@@ -36,4 +36,6 @@ ________________________________________________________________________________
 4) Keep repeating Step 1, 2 and 3 till we yield lowest loss possible
 ![Image](https://github.com/user-attachments/assets/cb2c2dc7-2e2a-416b-abc0-8faea969e504)
 
-There are abo
+![Image](https://github.com/user-attachments/assets/020af10d-0846-4170-a455-340529cd1dc9)
+
+
