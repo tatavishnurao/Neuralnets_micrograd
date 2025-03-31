@@ -44,3 +44,7 @@ ________________________________________________________________________________
 #### b) PRODUCT RULE
 
 ```
+![Image](https://github.com/user-attachments/assets/05886c4c-8894-4053-9556-95bd64dfdee1)
+
+When the root of the two nodes like a and b are connected a '+', we simply apply the values of 'a+b' for both a and b.
+```
