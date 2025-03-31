@@ -33,6 +33,7 @@ ________________________________________________________________________________
 1) Forward Pass: The derivations obtained from the function
 2) Backward Pass: The use of Gradient descent and Chain rule
 3) Nudge the knobs for the points in y(x):
-
+4) Keep repeating Step 1, 2 and 3 till we yield lowest loss possible
 ![Image](https://github.com/user-attachments/assets/cb2c2dc7-2e2a-416b-abc0-8faea969e504)
 
+There are abo
