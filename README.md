@@ -39,3 +39,8 @@ ________________________________________________________________________________
 ![Image](https://github.com/user-attachments/assets/020af10d-0846-4170-a455-340529cd1dc9)
 
 
+### HIGHLIGHTING THE BACKWARD PASS HERE, THERE ARE NAMELY TWO SIMPLE RULES AT THIS STEP:
+#### a) SUM RULE
+#### b) PRODUCT RULE
+
+```
