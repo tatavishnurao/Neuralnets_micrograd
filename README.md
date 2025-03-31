@@ -45,6 +45,11 @@ ________________________________________________________________________________
 
 ![Image](https://github.com/user-attachments/assets/05886c4c-8894-4053-9556-95bd64dfdee1)
 
-When the root of the two nodes like a and b are connected a '+', we simply apply the values of 'a+b' for both a and b.
+When the root of the two nodes like a and b are connected to a '+', we simply apply the values of 'a+b' for both a and b.
 
+![Image](https://github.com/user-attachments/assets/9a53b06d-fdf6-443a-9db6-65d9edfbe74a)
 
+When the root of the two nodes like a and b are connected to a '*', we distribute the gradient multiplied cross-ways by the inputs.
+--Suppose a, b, a*b
+-- We take value a = b * dy/d(a*b)
+-- Similarly, b = a * dy/d(a*b)
