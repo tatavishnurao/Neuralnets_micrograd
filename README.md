@@ -14,7 +14,7 @@ I had just had to start out with Excalidraw to visualize and soak in his teachin
 2) Then we applying Chain Rule locally which points to children nodes everytime we backpropogate
 3) Now, for final sauce Iteratively add and multiply on local derivatives
 ```
-### Backpropogation in a Nutshell: The recursive application of Chain rule backwards thorugh the computation gr
+### Backpropogation in a Nutshell: The recursive application of Chain rule backwards thorugh the computation gra
 
 #### The core of the backpropagation is the differentiability of curve-fitting function for each constant k is a real number
 
