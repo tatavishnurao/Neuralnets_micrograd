@@ -55,4 +55,4 @@ When the root of the two nodes like a and b are connected to a '*', we distribut
 -- Similarly, b = a * dy/d(a*b)
 
 
-I am thinking to write about backpropogration and Gradient decent along with Pytorch implementation explaining it in a 
+I am thinking to write about backpropogration and Gradient decent along with Pytorch implementation explaining it in a very simple way
