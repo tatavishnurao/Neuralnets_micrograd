@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 
 ### HIGHLIGHTING THE BACKWARD PASS HERE, THERE ARE NAMELY TWO SIMPLE RULES AT THIS STEP:
-#### a) SUM RU
+#### a) SUM R
 #### b) PRODUCT RULE
 
 ![Image](https://github.com/user-attachments/assets/05886c4c-8894-4053-9556-95bd64dfdee1)
