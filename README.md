@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 ### THE GOAL is to find the set of coeffients which satisfies the curve-fitting for the points available
 
---The Backpropogation can happen in 4 st
+--The Backpropogation can happen in 4 ste
 1) Forward Pass: The derivations obtained from the function
 2) Backward Pass: The use of Gradient descent and Chain rule
 3) Nudge the knobs for the points in y(x)
