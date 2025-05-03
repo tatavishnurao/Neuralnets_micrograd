@@ -23,7 +23,7 @@ I had just had to start out with Excalidraw to visualize and soak in his teachin
 The backpropoagtion aims to solve the curve-fitting problem i.e, 
 ```
 y(x) = k0 + k1x + k2x^2 + k3x^3 + k4x^4 + k5x^5 where for every k is a real number.
-```
+```.    
 
 ________________________________________________________________________________________________________
 
