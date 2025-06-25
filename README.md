@@ -5,7 +5,7 @@ I just started Andrej's Neural Networks Series. Would you believe me if I stayed
 
 I had just had to start out with Excalidraw to visualize and soak in his teachings 
  
-  
+   
 ![Image](https://github.com/user-attachments/assets/ea1c9beb-f945-4686-90d1-e0851d0323f6)
 
 ### 3-step Illustration
